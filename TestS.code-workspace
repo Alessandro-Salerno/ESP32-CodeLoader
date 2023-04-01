@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "TestS",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sdkconfig.h": "c",
+			"stdio.h": "c",
+			"inttypes.h": "c",
+			"task.h": "c",
+			"esp_flash.h": "c",
+			"esp_chip_info.h": "c",
+			"freertos.h": "c"
+		}
+	}
+}
